@@ -8,7 +8,7 @@
     display: inline;
 }
 
-.header li.sag {
+.header li.right {
     float: right;
     padding-left: 10px;
     padding-right: 10px;
@@ -21,7 +21,7 @@
     text-align: center;
 }
 
-.arama {
+.searching {
     height: 50px;
     
     margin-top: 10px;
@@ -34,7 +34,7 @@
 ;
 }
 
-.butonlar {
+.buttons {
     height: 100px;
     /*background-color: cornflowerblue;*/
     margin-top: 10px;
@@ -66,12 +66,12 @@ body {
     text-align: center;
 }
 
-.butonlar ul {
+.buttons ul {
     padding-left: 0%;
     text-align: center;
 }
 
-.butonlar li {
+.buttons  li {
     display: inline;
     padding: 10px;
 }
@@ -80,13 +80,13 @@ body {
     display: inline;
 }
 
-.footer li.sag {
+.footer li.right {
     float: right;
     padding-left: 10px;
     padding-right: 10px;
 }
 
-.footer li.sol {
+.footer li.left {
     padding-left: 10px;
     padding-right: 10px;
    
@@ -98,7 +98,7 @@ body {
     color: white;
 }
 
-.arama textarea {
+.searching textarea {
     border-style: none;
 }
 
@@ -106,11 +106,11 @@ body {
     text-decoration: none;
 }
 
-.header li.sol {
+.header li.left {
     padding: 10px;
 }
 
-.butonlar button {
+.buttons  button {
     width: 150px;
     height: 36px;
     margin-top: 30px;
